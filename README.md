@@ -47,4 +47,5 @@ Ejemplo: #club_ios -> Aqui solo se habla de iOS, para más info sobre lo que es 
 # Clubs
 
 - Kotlin: #club-kotlin
+- 🦄 Buenas prácticas y testing: #club_goodpractice_test
 

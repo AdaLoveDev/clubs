@@ -48,3 +48,4 @@ Ejemplo: #club_ios -> Aqui solo se habla de iOS, para más info sobre lo que es 
 
 - [:tada: Kotlin: #club-kotlin](pages/club_kotlin.md)
 - [🦄 Buenas prácticas y testing](pages/club_goodpractice_test.md)
+- [🇬🇧 󠁧󠁢󠁥󠁮Inglés](pages/club_english.md)

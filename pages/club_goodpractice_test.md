@@ -14,3 +14,4 @@ Canal de slack: #club_goodpractice_test
 ### 🧰 Otros recursos
 - https://refactoring.guru/
 - https://refactoring.com/catalog/
+- https://yodralopez.dev/refactoring-cheatsheet.pdf
